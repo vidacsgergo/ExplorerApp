@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466427796",
+    "project_id": "explorer-e6b86",
+    "storage_bucket": "explorer-e6b86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466427796:android:c45d3931866fcaf18f3981",
+        "android_client_info": {
+          "package_name": "hu.bme.aut.android.vnnqwh.explorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdIl7SciBQczYtDhwWCE3Q3dWhE_JKUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

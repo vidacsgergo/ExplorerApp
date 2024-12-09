@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExploreR</string>
+    <string name="textfield_label_password">Password</string>
+    <string name="button_text_sign_in">Sign In</string>
+    <string name="button_text_no_account">I don\'t have an account yet.</string>
+    <string name="textfield_label_email">Email</string>
+    <string name="app_bar_title_sign_up">Sign up</string>
+    <string name="textfield_label_confirm_password">Confirm Password</string>
+    <string name="button_text_sign_up">Sign Up</string>
+    <string name="app_bar_title_attractions_list">Attractions</string>
+    <string name="app_bar_title_attraction_details">Details</string>
+    <string name="search_bar_placeholder_text">SearchBar</string>
+    <string name="search_bar_label_text">Search</string>
+    <string name="app_bar_title_attractions_map">Map</string>
+    <string name="app_bar_title_favorites">Favorites</string>
+    <string name="no_attractions_found">No attractions found...</string>
+    <string name="google_maps_key">AIzaSyBpA-jdpjavX0l9kPg6vLDkWc227NE4Fi8</string>
+    <string name="some_error_message">Error</string>
+</resources>
